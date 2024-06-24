@@ -88,4 +88,4 @@ class TripRequestController extends Controller
         }
     }
 }
-\\wsl.localhost\Ubuntu\home\rahul\proj1
+
